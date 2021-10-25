@@ -1,0 +1,16 @@
+C:\Avans\Leerjaar 2\Individuele_Opdracht\FysioSysteem\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Avans\Leerjaar 2\Individuele_Opdracht\FysioSysteem\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Avans\Leerjaar 2\Individuele_Opdracht\FysioSysteem\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Avans\Leerjaar 2\Individuele_Opdracht\FysioSysteem\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Avans\Leerjaar 2\Individuele_Opdracht\FysioSysteem\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Avans\Leerjaar 2\Individuele_Opdracht\FysioSysteem\Domain\bin\Debug\net5.0\Domain.exe
+C:\Avans\Leerjaar 2\Individuele_Opdracht\FysioSysteem\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Avans\Leerjaar 2\Individuele_Opdracht\FysioSysteem\Domain\bin\Debug\net5.0\Domain.runtimeconfig.json
+C:\Avans\Leerjaar 2\Individuele_Opdracht\FysioSysteem\Domain\bin\Debug\net5.0\Domain.runtimeconfig.dev.json
+C:\Avans\Leerjaar 2\Individuele_Opdracht\FysioSysteem\Domain\bin\Debug\net5.0\Domain.dll
+C:\Avans\Leerjaar 2\Individuele_Opdracht\FysioSysteem\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Avans\Leerjaar 2\Individuele_Opdracht\FysioSysteem\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Avans\Leerjaar 2\Individuele_Opdracht\FysioSysteem\Domain\obj\Debug\net5.0\Domain.dll
+C:\Avans\Leerjaar 2\Individuele_Opdracht\FysioSysteem\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Avans\Leerjaar 2\Individuele_Opdracht\FysioSysteem\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Avans\Leerjaar 2\Individuele_Opdracht\FysioSysteem\Domain\obj\Debug\net5.0\Domain.genruntimeconfig.cache
